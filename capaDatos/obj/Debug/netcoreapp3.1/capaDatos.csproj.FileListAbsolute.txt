@@ -1,0 +1,13 @@
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.deps.json
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\bin\Debug\netcoreapp3.1\capaDatos.pdb
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.AssemblyInfoInputs.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.AssemblyInfo.cs
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.pdb
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaDatos\obj\Debug\netcoreapp3.1\capaDatos.csproj.CopyComplete

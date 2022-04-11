@@ -1,0 +1,9 @@
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.deps.json
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfoInputs.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.AssemblyInfo.cs
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaEntidad\obj\Debug\netcoreapp3.1\capaEntidad.pdb

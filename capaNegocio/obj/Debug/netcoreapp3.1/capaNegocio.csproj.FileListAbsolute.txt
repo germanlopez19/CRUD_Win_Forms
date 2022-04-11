@@ -1,0 +1,15 @@
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\bin\Debug\netcoreapp3.1\capaNegocio.deps.json
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\bin\Debug\netcoreapp3.1\capaNegocio.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\bin\Debug\netcoreapp3.1\capaNegocio.pdb
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.AssemblyInfo.cs
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.pdb
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\bin\Debug\netcoreapp3.1\capaEntidad.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\bin\Debug\netcoreapp3.1\capaEntidad.pdb
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\obj\Debug\netcoreapp3.1\capaNegocio.csproj.CopyComplete
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\bin\Debug\netcoreapp3.1\capaDatos.dll
+C:\Users\germa\OneDrive\Documents\Developer\NET\capaDatos\capaNegocio\bin\Debug\netcoreapp3.1\capaDatos.pdb
